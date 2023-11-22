@@ -1,0 +1,14 @@
+C:\Users\b1mks\Desktop\windowsforms\Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\bin\Debug\net6.0\Karakter Tersten Yazdırma.exe
+C:\Users\b1mks\Desktop\windowsforms\Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\bin\Debug\net6.0\Karakter Tersten Yazdırma.deps.json
+C:\Users\b1mks\Desktop\windowsforms\Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\bin\Debug\net6.0\Karakter Tersten Yazdırma.runtimeconfig.json
+C:\Users\b1mks\Desktop\windowsforms\Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\bin\Debug\net6.0\Karakter Tersten Yazdırma.dll
+C:\Users\b1mks\Desktop\windowsforms\Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\bin\Debug\net6.0\Karakter Tersten Yazdırma.pdb
+C:\Users\b1mks\Desktop\windowsforms\Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\obj\Debug\net6.0\Karakter Tersten Yazdırma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b1mks\Desktop\windowsforms\Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\obj\Debug\net6.0\Karakter Tersten Yazdırma.AssemblyInfoInputs.cache
+C:\Users\b1mks\Desktop\windowsforms\Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\obj\Debug\net6.0\Karakter Tersten Yazdırma.AssemblyInfo.cs
+C:\Users\b1mks\Desktop\windowsforms\Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\obj\Debug\net6.0\Karakter Tersten Yazdırma.csproj.CoreCompileInputs.cache
+C:\Users\b1mks\Desktop\windowsforms\Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\obj\Debug\net6.0\Karakter Tersten Yazdırma.dll
+C:\Users\b1mks\Desktop\windowsforms\Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\obj\Debug\net6.0\refint\Karakter Tersten Yazdırma.dll
+C:\Users\b1mks\Desktop\windowsforms\Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\obj\Debug\net6.0\Karakter Tersten Yazdırma.pdb
+C:\Users\b1mks\Desktop\windowsforms\Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\obj\Debug\net6.0\Karakter Tersten Yazdırma.genruntimeconfig.cache
+C:\Users\b1mks\Desktop\windowsforms\Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\obj\Debug\net6.0\ref\Karakter Tersten Yazdırma.dll

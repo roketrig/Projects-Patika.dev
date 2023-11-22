@@ -1,0 +1,14 @@
+C:\Users\b1mks\Desktop\windowsforms\Daireciz\Daireciz\bin\Debug\net6.0\Daireciz.exe
+C:\Users\b1mks\Desktop\windowsforms\Daireciz\Daireciz\bin\Debug\net6.0\Daireciz.deps.json
+C:\Users\b1mks\Desktop\windowsforms\Daireciz\Daireciz\bin\Debug\net6.0\Daireciz.runtimeconfig.json
+C:\Users\b1mks\Desktop\windowsforms\Daireciz\Daireciz\bin\Debug\net6.0\Daireciz.dll
+C:\Users\b1mks\Desktop\windowsforms\Daireciz\Daireciz\bin\Debug\net6.0\Daireciz.pdb
+C:\Users\b1mks\Desktop\windowsforms\Daireciz\Daireciz\obj\Debug\net6.0\Daireciz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b1mks\Desktop\windowsforms\Daireciz\Daireciz\obj\Debug\net6.0\Daireciz.AssemblyInfoInputs.cache
+C:\Users\b1mks\Desktop\windowsforms\Daireciz\Daireciz\obj\Debug\net6.0\Daireciz.AssemblyInfo.cs
+C:\Users\b1mks\Desktop\windowsforms\Daireciz\Daireciz\obj\Debug\net6.0\Daireciz.csproj.CoreCompileInputs.cache
+C:\Users\b1mks\Desktop\windowsforms\Daireciz\Daireciz\obj\Debug\net6.0\Daireciz.dll
+C:\Users\b1mks\Desktop\windowsforms\Daireciz\Daireciz\obj\Debug\net6.0\refint\Daireciz.dll
+C:\Users\b1mks\Desktop\windowsforms\Daireciz\Daireciz\obj\Debug\net6.0\Daireciz.pdb
+C:\Users\b1mks\Desktop\windowsforms\Daireciz\Daireciz\obj\Debug\net6.0\Daireciz.genruntimeconfig.cache
+C:\Users\b1mks\Desktop\windowsforms\Daireciz\Daireciz\obj\Debug\net6.0\ref\Daireciz.dll

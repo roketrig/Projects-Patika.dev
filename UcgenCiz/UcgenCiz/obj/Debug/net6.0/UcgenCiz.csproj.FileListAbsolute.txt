@@ -1,0 +1,14 @@
+C:\Users\b1mks\Desktop\windowsforms\UcgenCiz\UcgenCiz\bin\Debug\net6.0\UcgenCiz.exe
+C:\Users\b1mks\Desktop\windowsforms\UcgenCiz\UcgenCiz\bin\Debug\net6.0\UcgenCiz.deps.json
+C:\Users\b1mks\Desktop\windowsforms\UcgenCiz\UcgenCiz\bin\Debug\net6.0\UcgenCiz.runtimeconfig.json
+C:\Users\b1mks\Desktop\windowsforms\UcgenCiz\UcgenCiz\bin\Debug\net6.0\UcgenCiz.dll
+C:\Users\b1mks\Desktop\windowsforms\UcgenCiz\UcgenCiz\bin\Debug\net6.0\UcgenCiz.pdb
+C:\Users\b1mks\Desktop\windowsforms\UcgenCiz\UcgenCiz\obj\Debug\net6.0\UcgenCiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b1mks\Desktop\windowsforms\UcgenCiz\UcgenCiz\obj\Debug\net6.0\UcgenCiz.AssemblyInfoInputs.cache
+C:\Users\b1mks\Desktop\windowsforms\UcgenCiz\UcgenCiz\obj\Debug\net6.0\UcgenCiz.AssemblyInfo.cs
+C:\Users\b1mks\Desktop\windowsforms\UcgenCiz\UcgenCiz\obj\Debug\net6.0\UcgenCiz.csproj.CoreCompileInputs.cache
+C:\Users\b1mks\Desktop\windowsforms\UcgenCiz\UcgenCiz\obj\Debug\net6.0\UcgenCiz.dll
+C:\Users\b1mks\Desktop\windowsforms\UcgenCiz\UcgenCiz\obj\Debug\net6.0\refint\UcgenCiz.dll
+C:\Users\b1mks\Desktop\windowsforms\UcgenCiz\UcgenCiz\obj\Debug\net6.0\UcgenCiz.pdb
+C:\Users\b1mks\Desktop\windowsforms\UcgenCiz\UcgenCiz\obj\Debug\net6.0\UcgenCiz.genruntimeconfig.cache
+C:\Users\b1mks\Desktop\windowsforms\UcgenCiz\UcgenCiz\obj\Debug\net6.0\ref\UcgenCiz.dll
